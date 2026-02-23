@@ -1,5 +1,5 @@
 ##  Live Demo
-https://retailfoodwasteanalytics-8wu4f25uxml9lqggvca8h.streamlit.app
+https://retailfoodwasteanalytics-y8wu4f25uxml9lqggvca8h.streamlit.app/
 
 ---
 # Retail Food Waste & Demand Analytics System
