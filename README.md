@@ -1,3 +1,7 @@
+##  Live Demo
+https://retailfoodwasteanalytics-8wu4f25uxml9lqggvca8h.streamlit.app
+
+---
 # Retail Food Waste & Demand Analytics System
 
 A multi-restaurant analytics and decision-support dashboard designed to identify production-demand mismatch, reduce food waste, and improve profitability in retail food businesses.
